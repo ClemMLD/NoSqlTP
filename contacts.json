@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "PutRequest": {
+        "Item": {
+          "title": {"S": "BTS Assurance - Cerfal"},
+          "name": {"S": "CFA Cerfal - Paris"},
+          "address": {"S": "15 rue Sarrette 75014 Paris France"},
+          "realAddress": {"S": "15 rue Sarrette"},
+          "department": {"S": "75014 Paris"},
+          "country": {"S": "France"},
+          "tel": {"S": "01 40 52 28 70"},
+          "email": {"S": "contact@cerfal.fr"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "title": {"S": "istec (Istec Business School Paris)"},
+          "name": {"S": "Campus Jemmapes ISTEC Paris"},
+          "address": {"S": "Campus Jemmapes 128 Quai de Jemmapes 75010 PARIS France"},
+          "realAddress": {"S": "Campus Jemmapes"},
+          "department": {"S": "128 Quai de Jemmapes"},
+          "country": {"S": "75010 PARIS"},
+          "tel": {"S": "01 40 40 20 30"},
+          "email": {"S": "info@istec.fr"}
+        }
+      }
+    }
+  ]
+}
